@@ -13,7 +13,7 @@ export const youtube = createApi({
         params: { q: value, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -25,7 +25,7 @@ export const youtube = createApi({
         params: { q: searchValue, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -37,7 +37,7 @@ export const youtube = createApi({
         params: { q: value, cursor: filter, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -51,7 +51,7 @@ export const youtube = createApi({
         params: { id: Id, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -63,7 +63,7 @@ export const youtube = createApi({
         params: { id: id, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -75,7 +75,7 @@ export const youtube = createApi({
         params: { id: id, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -87,7 +87,7 @@ export const youtube = createApi({
         params: { id: id, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -100,7 +100,7 @@ export const youtube = createApi({
         params: { id: id, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -112,7 +112,7 @@ export const youtube = createApi({
         params: { id: videoId, cursor: type, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -124,7 +124,7 @@ export const youtube = createApi({
         params: { id: id, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -136,7 +136,7 @@ export const youtube = createApi({
         params: { id: id, hl: "en", gl: "US" },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -153,7 +153,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -169,7 +169,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -188,7 +188,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -205,7 +205,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -222,7 +222,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -239,7 +239,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -256,7 +256,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -273,7 +273,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -290,7 +290,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -307,7 +307,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -324,7 +324,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
@@ -341,7 +341,7 @@ export const youtube = createApi({
         },
         headers: {
           "X-RapidAPI-Key":
-            "a161ad78c4msh70ecd9a75068934p1757f1jsn6eb9af2b6814",
+            "",
           "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
         },
       }),
