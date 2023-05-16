@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "youtube-clone",
+    "slug": "youtube-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/youtube.png",
+    "userInterfaceStyle": "light",
+    "jsEngine": "hermes",
+    "splash": {
+      "image": "./assets/youtube.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#212121"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.youtubeclone"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/youtube.png",
+        "backgroundColor": "#212121"
+      },
+      "package": "com.anonymous.youtubeclone"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b2fcd58a-2e0e-48c9-91d3-48b15161c376"
+      }
+    },
+    "owner": "as-developer"
+  }
+}
